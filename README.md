@@ -1,6 +1,6 @@
 This is a Web Dev project: Google Clone with the following features:
 
-1.Sign Up - NextAuth
+1.Sign Up - NextAuth  
 2.Searching - Google Search API  
 3.Hosting Service - Vercel  
 
