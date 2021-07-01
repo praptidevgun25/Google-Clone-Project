@@ -20,5 +20,5 @@ Check out my hosted site: https://google-clone-praptidevgun25.vercel.app
 **Some files has been modified for security reasons 
 you may refer: https://youtu.be/24xpTmaPOdY for full tutorial**  
 
-**This build was made by refering to :  
+**This build was made referring to :  
 Sonny Sangha yt Channel: Google 2.0 React JS**
