@@ -17,7 +17,7 @@ Built using:
 
 Check out my hosted site: https://google-clone-praptidevgun25.vercel.app
   
-**Some files has been modified for security reasons 
+**Some files have been modified for security reasons 
 you may refer: https://youtu.be/24xpTmaPOdY for full tutorial**  
 
 **This build was made referring to :  
