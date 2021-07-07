@@ -2,7 +2,7 @@
   <img src="https://github.com/praptidevgun25/Google-Clone-Project/blob/b2934e6d56b27c4210a511ec914bef28aa7c3caa/photo-1573804633927-bfcbcd909acd.jfif" />
 </p>
 
-### Google Clone Project with the following features:
+### This is a Google Clone Project with the following features:
 
 1. Sign Up - NextAuth  
 2. Searching - Google Search API  
