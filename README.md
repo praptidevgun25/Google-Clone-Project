@@ -8,7 +8,7 @@
 2. Searching - Google Search API  
 3. Hosting Service - Vercel  
 
-Built using:  
+### Built using:  
 1. Next JS  
 2. Tailwind CSS  
 3. Firebase  
